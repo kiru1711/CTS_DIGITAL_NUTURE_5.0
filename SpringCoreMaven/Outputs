@@ -1,0 +1,12 @@
+EXERCISE 1 
+"C:\Program Files\Java\jdk-21\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2026.1.3\lib\idea_rt.jar=59332" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath C:\Users\Kiruthika.R.J\IdeaProjects\LibraryManagement\target\classes;C:\Users\Kiruthika.R.J\.m2\repository\org\springframework\spring-context\5.3.30\spring-context-5.3.30.jar;C:\Users\Kiruthika.R.J\.m2\repository\org\springframework\spring-aop\5.3.30\spring-aop-5.3.30.jar;C:\Users\Kiruthika.R.J\.m2\repository\org\springframework\spring-beans\5.3.30\spring-beans-5.3.30.jar;C:\Users\Kiruthika.R.J\.m2\repository\org\springframework\spring-core\5.3.30\spring-core-5.3.30.jar;C:\Users\Kiruthika.R.J\.m2\repository\org\springframework\spring-jcl\5.3.30\spring-jcl-5.3.30.jar;C:\Users\Kiruthika.R.J\.m2\repository\org\springframework\spring-expression\5.3.30\spring-expression-5.3.30.jar com.library.LibraryApplication
+Book Service called
+Book data from repository
+
+EXERCISE 2
+"C:\Program Files\Java\jdk-21\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2026.1.3\lib\idea_rt.jar=60463" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath "C:\Users\Kiruthika.R.J\IdeaProjects\LibraryManagement\SpringCoreMaven\Exercise 2\target\classes;C:\Users\Kiruthika.R.J\.m2\repository\org\springframework\spring-context\5.3.30\spring-context-5.3.30.jar;C:\Users\Kiruthika.R.J\.m2\repository\org\springframework\spring-aop\5.3.30\spring-aop-5.3.30.jar;C:\Users\Kiruthika.R.J\.m2\repository\org\springframework\spring-beans\5.3.30\spring-beans-5.3.30.jar;C:\Users\Kiruthika.R.J\.m2\repository\org\springframework\spring-core\5.3.30\spring-core-5.3.30.jar;C:\Users\Kiruthika.R.J\.m2\repository\org\springframework\spring-jcl\5.3.30\spring-jcl-5.3.30.jar;C:\Users\Kiruthika.R.J\.m2\repository\org\springframework\spring-expression\5.3.30\spring-expression-5.3.30.jar" com.library.LibraryManagementApplication
+Book Service started
+Fetching book from repository
+
+
+
